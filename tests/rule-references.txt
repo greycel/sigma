@@ -3824,3 +3824,17 @@ https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/se
 https://anydesk.com/en/changelog/windows
 https://www.elastic.co/guide/en/security/7.17/prebuilt-rule-0-16-1-scheduled-task-execution-at-scale-via-gpo.html
 https://www.virustotal.com/gui/file/b4b1fc65f87b3dcfa35e2dbe8e0a34ad9d8a400bec332025c0a2e200671038aa/behavior
+https://www.cobaltstrike.com/blog/why-is-notepad-exe-connecting-to-the-internet
+https://intezer.com/wp-content/uploads/2021/09/TeamTNT-Cryptomining-Explosion.pdf
+https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.4
+https://blog.morphisec.com/vmware-identity-manager-attack-backdoor
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4698
+https://github.com/MichaelGrafnetter/DSInternals/blob/39ee8a69bbdc1cfd12c9afdd7513b4788c4895d4/Src/DSInternals.PowerShell/DSInternals.psd1
+https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.InternetExplorer::IZ_IncludeUnspecifiedLocalSites
+https://book.hacktricks.xyz/windows-hardening/active-directory-methodology/dsrm-credentials
+https://learn.microsoft.com/en-us/powershell/module/activedirectory/get-addefaultdomainpasswordpolicy?view=windowsserver2022-ps
+https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#new-country
+https://kubernetes.io/docs/reference/config-api/apiserver-audit.v1/
+https://web.archive.org/web/20211001064856/https://github.com/snovvcrash/DInjector
+https://www.sentinelone.com/blog/from-the-front-linesunsigned-macos-orat-malware-gambles-for-the-win/
+https://web.archive.org/web/20210512154016/https://github.com/AlsidOfficial/WSUSpendu/blob/master/WSUSpendu.ps1
