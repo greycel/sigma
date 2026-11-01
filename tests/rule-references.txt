@@ -3824,3 +3824,13 @@ https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/se
 https://anydesk.com/en/changelog/windows
 https://www.elastic.co/guide/en/security/7.17/prebuilt-rule-0-16-1-scheduled-task-execution-at-scale-via-gpo.html
 https://www.virustotal.com/gui/file/b4b1fc65f87b3dcfa35e2dbe8e0a34ad9d8a400bec332025c0a2e200671038aa/behavior
+https://learn.microsoft.com/en-us/iis/get-started/introduction-to-iis/iis-modules-overview
+https://intezer.com/wp-content/uploads/2021/09/TeamTNT-Cryptomining-Explosion.pdf
+https://learn.microsoft.com/en-us/entra/id-protection/howto-identity-protection-configure-mfa-policy
+https://github.com/grayhatkiller/SharpExShell
+http://www.hexacorn.com/blog/2019/03/30/sqirrel-packages-manager-as-a-lolbin-a-k-a-many-electron-apps-are-lolbins-by-default/
+https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/operations/event-id-explanations
+https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#suspicious-inbox-forwarding
+https://www.hexacorn.com/blog/2022/01/16/beyond-good-ol-run-key-part-135/
+https://www.group-ib.com/resources/threat-research/silence_2.0.going_global.pdf
+https://securelist.com/key-group-ransomware-samples-and-telegram-schemes/114025/
